@@ -1,10 +1,13 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Atharv Joshi]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [March 10 , 2021].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Started Development on a Pizza Company Website.
+Includes only html right now since I dont know much of CSS ,javascript.
+Has 4 different webpages all linked to each other.
+[Link to Repositery](https://github.com/Atharv-Joshi/Pizzeria)
 
 ### R1D2
