@@ -11,3 +11,6 @@ Has 4 different webpages all linked to each other.
 [Link to Repositery](https://github.com/Atharv-Joshi/Pizzeria)
 
 ### R1D2
+
+Learned and implemented CSS basics.
+Hosted version1 of [Pizzeria Site](https://pizzeria-v1.herokuapp.com/) on Heroku.
