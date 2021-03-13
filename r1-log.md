@@ -13,4 +13,18 @@ Has 4 different webpages all linked to each other.
 ### R1D2
 
 Learned and implemented CSS basics.
-Hosted version1 of [Pizzeria Site](https://pizzeria-v1.herokuapp.com/) on Heroku.
+Hosted version1 of [Pizzeria Site](https://pizzeria-v1.herokuapp.com/version1/homev1.html) on Heroku.
+
+
+### R1D3
+
+Created a Dummy version2 page and linked it with remaining pages to upload all the versions of the site together.
+Changed footer css so that it is always positioned at the bottom of the webpage.
+
+
+### R1D4
+
+Created a nav-bar .
+Implemented basic CSS.
+Re organized files
+
