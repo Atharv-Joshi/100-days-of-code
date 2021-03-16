@@ -28,3 +28,14 @@ Created a nav-bar .
 Implemented basic CSS.
 Re organized files
 
+
+### R1D5
+
+Created login and sign up pages.
+Learned a bit of CSS.
+
+
+### R1D6
+
+Applied some CSS to login and sign up pages.
+
