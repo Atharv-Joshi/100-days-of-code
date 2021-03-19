@@ -49,3 +49,12 @@ Tried out new CSS concepts.
 
 added background to login and signup pages.
 
+### R1D9 march18
+
+The background img in login sign up is now responsive.
+
+### R1D10 march 19
+
+Added logo to navbar.
+
+
