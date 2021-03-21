@@ -4,57 +4,67 @@ The log of my #100DaysOfCode challenge. Started on [March 10 , 2021].
 
 ## Log
 
-### R1D1 march10
+### R1D1 MARCH10
 Started Development on a Pizza Company Website.
 Includes only html right now since I dont know much of CSS ,javascript.
 Has 4 different webpages all linked to each other.
 [Link to Repository](https://github.com/Atharv-Joshi/Pizzeria)
 
-### R1D2 march11
+### R1D2 MARCH11
 
 Learned and implemented CSS basics.
 Hosted version1 of [Pizzeria Site](https://pizzeria-v1.herokuapp.com/version1/homev1.html) on Heroku.
 
 
-### R1D3 march12
+### R1D3 MARCH12
 
 Created a Dummy version2 page and linked it with remaining pages to upload all the versions of the site together.
 Changed footer css so that it is always positioned at the bottom of the webpage.
 
 
-### R1D4 march13
+### R1D4 MARCH13
 
 Created a nav-bar .
 Implemented basic CSS.
 Re organized files
 
 
-### R1D5 march14
+### R1D5 MARCH14
 
 Created login and sign up pages.
 Learned a bit of CSS.
 
 
-### R1D6 march15
+### R1D6 MARCH15
 
 Applied some CSS to login and sign up pages.
 
 
-### R1D7 march16
+### R1D7 MARCH16
 
 Tried out new CSS concepts.
 
 
-### R1D8 march17
+### R1D8 MARCH17
 
 added background to login and signup pages.
 
-### R1D9 march18
+### R1D9 MARCH18
 
 The background img in login sign up is now responsive.
 
-### R1D10 march 19
+### R1D10 MARCH19
 
 Added logo to navbar.
+
+### R1D11 MARCH20
+
+fixed css in login sign up pages.
+
+### R1D12 MARCH21
+
+Added banner to home about contact numbers pages.
+
+Blurred the background img in sign up login pages without blurring the forms too.
 
 
