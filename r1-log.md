@@ -71,3 +71,9 @@ Blurred the background img in sign up login pages without blurring the forms too
 ### R1D13 MARCH22
 
 Added buttons for delivery options on home page
+
+
+### R1D14 MARCH23
+
+Started working on menu on the home page.
+Tried out positioning and tiling on menu.
