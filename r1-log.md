@@ -77,3 +77,20 @@ Added buttons for delivery options on home page
 
 Started working on menu on the home page.
 Tried out positioning and tiling on menu.
+
+### R1D15 MARCH24
+
+Created the menu .
+Each pizza has a tile now.
+CSS has also been written.
+
+### R1D16 MARCH25
+
+Leared basics of reflexive programming.
+Tried so media queries to make the website look good on mobile phones.
+
+
+### R1D17 MARCH26
+
+Added media queries for order method buttons and menu tiles.
+
