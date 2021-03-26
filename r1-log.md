@@ -96,3 +96,9 @@ Added media queries for order method buttons and menu tiles.
 
 positioned input fields for proper display on mobile
 
+
+### R1D18 MARCH27
+
+Redid menu tile css.
+
+
