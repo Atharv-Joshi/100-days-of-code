@@ -94,3 +94,5 @@ Tried so media queries to make the website look good on mobile phones.
 
 Added media queries for order method buttons and menu tiles.
 
+positioned input fields for proper display on mobile
+
