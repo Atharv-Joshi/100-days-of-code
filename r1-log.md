@@ -101,4 +101,6 @@ positioned input fields for proper display on mobile
 
 Redid menu tile css.
 
+Added a best deals gallery slider.
+
 
