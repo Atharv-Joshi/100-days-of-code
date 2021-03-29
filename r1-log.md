@@ -103,4 +103,13 @@ Redid menu tile css.
 
 Added a best deals gallery slider.
 
+### R1D19 MARCH28
+
+Learnt about css positioning 
+
+
+### R1D20  MARCH29
+
+Added order button to menu tiles.
+
 
