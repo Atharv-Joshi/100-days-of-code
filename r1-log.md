@@ -113,3 +113,11 @@ Learnt about css positioning
 Added order button to menu tiles.
 
 
+### R1D21  MARCH30
+
+Corrected media queries .
+
+
+### R1D22 MARCH31
+
+Started learning flutter basics.
