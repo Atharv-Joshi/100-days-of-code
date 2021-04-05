@@ -121,3 +121,12 @@ Corrected media queries .
 ### R1D22 MARCH31
 
 Started learning flutter basics.
+
+### R1D23 APRIL1
+
+Completed a Dart tutorial.
+Wrote basic programs using dart.
+
+### E1D24 APRIL2
+
+Flutter topics : images ,icons button types ,conainers
