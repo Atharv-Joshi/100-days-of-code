@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Atharv Joshi](https://github.com/Atharv-Joshi)
 
-The log of my #100DaysOfCode challenge. Started on [March 10 , 2021].
+The log of my #100DaysOfCode challenge. Started on March 10 , 2021.
 
 ## Log
 
@@ -87,6 +87,7 @@ CSS has also been written.
 ### R1D16 MARCH25
 
 Leared basics of reflexive programming.
+
 Tried so media queries to make the website look good on mobile phones.
 
 
@@ -125,17 +126,18 @@ Started learning flutter basics.
 ### R1D23 APRIL1
 
 Completed a Dart tutorial.
+
 Wrote basic programs using dart.
 
 ### R1D24 APRIL2
 
 Flutter topics : images ,icons button types ,containers ,rows ,columns
+
 HTML/CSS : flexbox
 
 
 ### R1D25 APRIL3
 
 Created a Flutter App which generates infinite  random names.
-
 
 [Startup Name Generator](https://github.com/Atharv-Joshi/flutter-projects/tree/master/startup_name_generator)
