@@ -127,7 +127,13 @@ Started learning flutter basics.
 Completed a Dart tutorial.
 Wrote basic programs using dart.
 
-### E1D24 APRIL2
+### R1D24 APRIL2
 
 Flutter topics : images ,icons button types ,containers ,rows ,columns
 HTML/CSS : flexbox
+
+
+### R1D25 APRIL3
+
+Created a Flutter App which generates infinite  random names.
+[Startup Name Generator](https://github.com/Atharv-Joshi/flutter-projects/tree/master/startup_name_generator)
