@@ -149,3 +149,5 @@ Created a Flutter App which generates infinite  random names.
 Learned about Stateful widgets in flutter.
 
 Made [Gamer Rank](https://github.com/Atharv-Joshi/flutter-projects/tree/master/game_rank) to experiment on stateless widgets and other basic widgets.
+
+Asynchronous functions and page routing in Flutter.
