@@ -61,6 +61,7 @@ Added logo to navbar.
 
 fixed css in login sign up pages.
 
+
 ### R1D12 MARCH21
 
 Added banner to home about contact numbers pages.
@@ -141,3 +142,10 @@ HTML/CSS : flexbox
 Created a Flutter App which generates infinite  random names.
 
 [Startup Name Generator](https://github.com/Atharv-Joshi/flutter-projects/tree/master/startup_name_generator)
+
+
+### R1D26 APRIL4
+
+Learned about Stateful widgets in flutter.
+
+Made [Gamer Rank](https://github.com/Atharv-Joshi/flutter-projects/tree/master/game_rank) to experiment on stateless widgets and other basic widgets.
