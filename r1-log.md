@@ -151,3 +151,10 @@ Learned about Stateful widgets in flutter.
 Made [Gamer Rank](https://github.com/Atharv-Joshi/flutter-projects/tree/master/game_rank) to experiment on stateless widgets and other basic widgets.
 
 Asynchronous functions and page routing in Flutter.
+
+
+### R1D27 APRIL5
+
+Made  [World Time](https://github.com/Atharv-Joshi/flutter-projects/tree/master/world_time) 
+
+Implemented page routing http package and many other things.
