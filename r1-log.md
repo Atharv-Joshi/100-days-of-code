@@ -155,6 +155,34 @@ Asynchronous functions and page routing in Flutter.
 
 ### R1D27 APRIL5
 
-Made  [World Time](https://github.com/Atharv-Joshi/flutter-projects/tree/master/world_time) 
+Started  [World Time](https://github.com/Atharv-Joshi/flutter-projects/tree/master/world_time) 
 
 Implemented page routing http package and many other things.
+
+
+### R1D28 APRIL6
+
+Created location page and loading pages
+
+
+### R1D29 APRIL7
+
+The loading page has spinner widget and now all the data is loaded while starting the app and is then redirected to the locations page.
+
+
+### R1D30  APRIL8
+
+Changed the API used for pulling time.
+
+Also available locations increased from 7 to 424.
+
+### R1D31 APRIL9 
+
+Started learning basic things of Firebase.
+Implemented anonymous signin authentication.
+
+### R1D32 APRIL10
+
+
+
+
