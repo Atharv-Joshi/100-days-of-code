@@ -183,6 +183,36 @@ Implemented anonymous signin authentication.
 
 ### R1D32 APRIL10
 
+Started development of[Brew Crew](https://github.com/Atharv-Joshi/flutter-projects/tree/master/brew_crew)
+
+Implemented Registration with email and password and sigin for the same.
+
+
+### R1D33 APRIL11
+
+Developed  UI for [Brew Crew](https://github.com/Atharv-Joshi/flutter-projects/tree/master/brew_crew)
+UI includes : 
+- Home page where all different orders are seen 
+- SignIn and SignUp register pages 
+- Settings panel for changing the coffee contents
+
+
+### R1D34 APRIL12
+
+Connected the App with Firebase 
+
+All registered users can be seen in Firebase authentication
+
+Each user has its own document for storing data.
+
+
+### R1D35 APRIL13 
+
+Added decoration to the Forms 
+
+Finishing touches 
+
+
 
 
 
