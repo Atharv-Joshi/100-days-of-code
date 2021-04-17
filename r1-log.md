@@ -218,3 +218,8 @@ Finishing touches
 Started development of [Personal Expenses](https://github.com/Atharv-Joshi/flutter-projects/tree/master/personal_expenses) App.
 
 
+### R1D37 APRIL15
+
+Added Form for acceppting new transactions.
+Splitted app into widgets.
+
