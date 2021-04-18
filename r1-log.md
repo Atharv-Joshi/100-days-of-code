@@ -223,3 +223,8 @@ Started development of [Personal Expenses](https://github.com/Atharv-Joshi/flutt
 Added Form for acceppting new transactions.
 Splitted app into widgets.
 
+### R1D38 APRIL16
+
+Added theme , modalsheet 
+
+Started development of chart widget
