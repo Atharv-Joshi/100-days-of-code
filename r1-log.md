@@ -228,3 +228,10 @@ Splitted app into widgets.
 Added theme , modalsheet 
 
 Started development of chart widget
+
+
+### R1D39 APRIL17
+
+Added datepicker widget
+transactions now show date selected by user.
+Started learning basic of responsive design : MediaQuery and LayoutBuilder
