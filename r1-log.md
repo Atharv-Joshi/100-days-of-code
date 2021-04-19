@@ -235,3 +235,10 @@ Started development of chart widget
 Added datepicker widget
 transactions now show date selected by user.
 Started learning basic of responsive design : MediaQuery and LayoutBuilder
+
+
+### R1D40 APRIL18
+
+Basics of REST API 
+
+Autocomplete widget in Flutter
