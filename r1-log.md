@@ -242,3 +242,8 @@ Started learning basic of responsive design : MediaQuery and LayoutBuilder
 Basics of REST API 
 
 Autocomplete widget in Flutter
+
+
+### R1D41 APRIL19 
+
+Tried collapsible sidebar
