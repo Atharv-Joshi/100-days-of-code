@@ -247,3 +247,5 @@ Autocomplete widget in Flutter
 ### R1D41 APRIL19 
 
 Tried collapsible sidebar
+
+Javascript basics 
