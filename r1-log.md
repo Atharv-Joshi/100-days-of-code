@@ -254,3 +254,7 @@ Javascript basics
 ### R1D42 APRIL20
 
 Working of build function in flutter, WidgetTree,Element Tree ,Render Tree
+
+### R1D43 APRIL21
+
+Made a fake news detection app using PassiveAggressiveClassfier and Flask
