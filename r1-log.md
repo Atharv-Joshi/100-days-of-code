@@ -261,6 +261,8 @@ Made a fake news detection app using PassiveAggressiveClassfier and Flask
 
 ### R1D44 APRIL22
 
-Started Meals App .
+Started [Meals App](https://github.com/Atharv-Joshi/flutter-projects/tree/master/meals_app/meals_app) .
 
 Learned about Gridveiw and its types in flutter
+
+Applied text styles and theme
