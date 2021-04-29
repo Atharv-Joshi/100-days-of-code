@@ -266,3 +266,10 @@ Started [Meals App](https://github.com/Atharv-Joshi/flutter-projects/tree/master
 Learned about Gridveiw and its types in flutter
 
 Applied text styles and theme
+
+### R145 APRIL23
+
+Styling to textfields and title , subtitle
+
+Ued Richtext and TextSpan
+
