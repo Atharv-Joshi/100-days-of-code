@@ -273,3 +273,8 @@ Styling to textfields and title , subtitle
 
 Ued Richtext and TextSpan
 
+
+### R1D46 APRIL24
+
+Added forgot password screen and styling to login page
+
