@@ -278,3 +278,7 @@ Ued Richtext and TextSpan
 
 Added forgot password screen and styling to login page
 
+
+### R1D47 APRIL25 
+
+Added meals model
